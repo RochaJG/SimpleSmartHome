@@ -12,5 +12,16 @@ module.exports = {
         rootPathSuffix: 'src',
       },
     ],
+    [
+      'module-resolver',
+      {
+        root: ['./src'],
+        alias: {
+          pages: './src/pages',
+          services: './src/services',
+          components: './src/components',
+        },
+      },
+    ],
   ],
 };
