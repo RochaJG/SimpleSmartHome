@@ -1,5 +1,5 @@
 import React from 'react';
-import { ThemeProvider } from 'styled-components';
+import styled, { ThemeProvider } from 'styled-components';
 
 const theme = {
   colors: {
@@ -40,8 +40,15 @@ const theme = {
   },
 };
 
+const Main = styled.SafeAreaView`
+  flex: 1;
+  background-color: ${theme.colors.vanilla};
+`;
+
 const Theme = ({ children }) => (
-  <ThemeProvider theme={theme}>{children}</ThemeProvider>
+  <ThemeProvider theme={theme}>
+    <Main>{children}</Main>
+  </ThemeProvider>
 );
 
 export default Theme;
