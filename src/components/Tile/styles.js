@@ -1,10 +1,9 @@
 import styled from 'styled-components/native';
 
 export const Container = styled.View`
-  background-color: #ffffff;
+  background-color: ${props => props.theme.colors.white};
   border-radius: 16px;
-  box-shadow: 0 5px 16px rgba(50, 132, 229, 0.16);
-  height: ${props => props.height || '75px'};
-  width: ${props => props.width || '75px'};
+  height: ${props => (props.height || 75) + 'px'};
+  width: ${props => (props.width || 75) + 'px'};
   padding: 15px;
 `;
