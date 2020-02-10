@@ -29,8 +29,8 @@ const setupMargin = (margin = '0') => {
 export const Container = styled.View`
   background-color: ${props => props.theme.colors.white};
   border-radius: 16px;
-  height: ${props => (props.height || 75) + 'px'};
-  width: ${props => (props.width || 75) + 'px'};
+  height: ${props => `${props.height}` || `80px`};
+  width: ${props => `${props.width}` || `80px`};
   padding: 15px;
   ${props => setupMargin(props.mrg)};
 `;
