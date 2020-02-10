@@ -66,6 +66,15 @@
 		<string>SF-Compact-Display-Semibold.otf</string>
 		<string>SF-Compact-Display-Thin.otf</string>
 		<string>SF-Compact-Display-Ultralight.otf</string>
+		<string>SFCompactDisplay-Black.otf</string>
+		<string>SFCompactDisplay-Bold.otf</string>
+		<string>SFCompactDisplay-Heavy.otf</string>
+		<string>SFCompactDisplay-Light.otf</string>
+		<string>SFCompactDisplay-Medium.otf</string>
+		<string>SFCompactDisplay-Regular.otf</string>
+		<string>SFCompactDisplay-Semibold.otf</string>
+		<string>SFCompactDisplay-Thin.otf</string>
+		<string>SFCompactDisplay-Ultralight.otf</string>
 	</array>
 </dict>
 </plist>

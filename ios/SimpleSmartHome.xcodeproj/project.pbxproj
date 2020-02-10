@@ -31,6 +31,15 @@
 		5929BDC6A3C3489181CD8C69 /* SF-Compact-Display-Semibold.otf in Resources */ = {isa = PBXBuildFile; fileRef = A817BAFDE14C448596D440FF /* SF-Compact-Display-Semibold.otf */; };
 		4A5BB679153748C4B758FA2F /* SF-Compact-Display-Thin.otf in Resources */ = {isa = PBXBuildFile; fileRef = D83CFDAE7F934B12B9CEAB7A /* SF-Compact-Display-Thin.otf */; };
 		6FE140FCF1CB436E9A876AAB /* SF-Compact-Display-Ultralight.otf in Resources */ = {isa = PBXBuildFile; fileRef = 50F8553572634806B359019D /* SF-Compact-Display-Ultralight.otf */; };
+		AFC76D602CF8414CAA7D381E /* SFCompactDisplay-Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = C812C60B3A4545E6AF03939B /* SFCompactDisplay-Black.otf */; };
+		2C6AC851E1A946FC914EB044 /* SFCompactDisplay-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 92805CDDFFD6469CA5C1D53A /* SFCompactDisplay-Bold.otf */; };
+		FC332566DD9048D291FC890F /* SFCompactDisplay-Heavy.otf in Resources */ = {isa = PBXBuildFile; fileRef = 0C9E8D41819946168BC54C56 /* SFCompactDisplay-Heavy.otf */; };
+		B10809A978C54A59BF7344F2 /* SFCompactDisplay-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = E250F9BA3EF0490C9C77AEB3 /* SFCompactDisplay-Light.otf */; };
+		6A48322D965145A3A422EFCC /* SFCompactDisplay-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = 470C5D08E5814CF289AE843F /* SFCompactDisplay-Medium.otf */; };
+		F767C28F4D5D48519FCB2E48 /* SFCompactDisplay-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 26AD971CAF1F4E61BD8B2C15 /* SFCompactDisplay-Regular.otf */; };
+		F8CC643184B143EEAFD7A603 /* SFCompactDisplay-Semibold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 4A63D0E5A74D40DF8895B933 /* SFCompactDisplay-Semibold.otf */; };
+		FD89B017A4E04E709C097FB8 /* SFCompactDisplay-Thin.otf in Resources */ = {isa = PBXBuildFile; fileRef = 7BF89B77EF374CE7AE7AAC4F /* SFCompactDisplay-Thin.otf */; };
+		584C37D5A5EB40B58AC7037B /* SFCompactDisplay-Ultralight.otf in Resources */ = {isa = PBXBuildFile; fileRef = B442CC49C14242E9BCCA7BA9 /* SFCompactDisplay-Ultralight.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -89,6 +98,15 @@
 		A817BAFDE14C448596D440FF /* SF-Compact-Display-Semibold.otf */ = {isa = PBXFileReference; name = "SF-Compact-Display-Semibold.otf"; path = "../assets/fonts/SF-Compact-Display-Semibold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 		D83CFDAE7F934B12B9CEAB7A /* SF-Compact-Display-Thin.otf */ = {isa = PBXFileReference; name = "SF-Compact-Display-Thin.otf"; path = "../assets/fonts/SF-Compact-Display-Thin.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 		50F8553572634806B359019D /* SF-Compact-Display-Ultralight.otf */ = {isa = PBXFileReference; name = "SF-Compact-Display-Ultralight.otf"; path = "../assets/fonts/SF-Compact-Display-Ultralight.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		C812C60B3A4545E6AF03939B /* SFCompactDisplay-Black.otf */ = {isa = PBXFileReference; name = "SFCompactDisplay-Black.otf"; path = "../assets/fonts/SFCompactDisplay-Black.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		92805CDDFFD6469CA5C1D53A /* SFCompactDisplay-Bold.otf */ = {isa = PBXFileReference; name = "SFCompactDisplay-Bold.otf"; path = "../assets/fonts/SFCompactDisplay-Bold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		0C9E8D41819946168BC54C56 /* SFCompactDisplay-Heavy.otf */ = {isa = PBXFileReference; name = "SFCompactDisplay-Heavy.otf"; path = "../assets/fonts/SFCompactDisplay-Heavy.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		E250F9BA3EF0490C9C77AEB3 /* SFCompactDisplay-Light.otf */ = {isa = PBXFileReference; name = "SFCompactDisplay-Light.otf"; path = "../assets/fonts/SFCompactDisplay-Light.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		470C5D08E5814CF289AE843F /* SFCompactDisplay-Medium.otf */ = {isa = PBXFileReference; name = "SFCompactDisplay-Medium.otf"; path = "../assets/fonts/SFCompactDisplay-Medium.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		26AD971CAF1F4E61BD8B2C15 /* SFCompactDisplay-Regular.otf */ = {isa = PBXFileReference; name = "SFCompactDisplay-Regular.otf"; path = "../assets/fonts/SFCompactDisplay-Regular.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		4A63D0E5A74D40DF8895B933 /* SFCompactDisplay-Semibold.otf */ = {isa = PBXFileReference; name = "SFCompactDisplay-Semibold.otf"; path = "../assets/fonts/SFCompactDisplay-Semibold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		7BF89B77EF374CE7AE7AAC4F /* SFCompactDisplay-Thin.otf */ = {isa = PBXFileReference; name = "SFCompactDisplay-Thin.otf"; path = "../assets/fonts/SFCompactDisplay-Thin.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		B442CC49C14242E9BCCA7BA9 /* SFCompactDisplay-Ultralight.otf */ = {isa = PBXFileReference; name = "SFCompactDisplay-Ultralight.otf"; path = "../assets/fonts/SFCompactDisplay-Ultralight.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -235,6 +253,15 @@
 				A817BAFDE14C448596D440FF /* SF-Compact-Display-Semibold.otf */,
 				D83CFDAE7F934B12B9CEAB7A /* SF-Compact-Display-Thin.otf */,
 				50F8553572634806B359019D /* SF-Compact-Display-Ultralight.otf */,
+				C812C60B3A4545E6AF03939B /* SFCompactDisplay-Black.otf */,
+				92805CDDFFD6469CA5C1D53A /* SFCompactDisplay-Bold.otf */,
+				0C9E8D41819946168BC54C56 /* SFCompactDisplay-Heavy.otf */,
+				E250F9BA3EF0490C9C77AEB3 /* SFCompactDisplay-Light.otf */,
+				470C5D08E5814CF289AE843F /* SFCompactDisplay-Medium.otf */,
+				26AD971CAF1F4E61BD8B2C15 /* SFCompactDisplay-Regular.otf */,
+				4A63D0E5A74D40DF8895B933 /* SFCompactDisplay-Semibold.otf */,
+				7BF89B77EF374CE7AE7AAC4F /* SFCompactDisplay-Thin.otf */,
+				B442CC49C14242E9BCCA7BA9 /* SFCompactDisplay-Ultralight.otf */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -391,6 +418,15 @@
 				5929BDC6A3C3489181CD8C69 /* SF-Compact-Display-Semibold.otf in Resources */,
 				4A5BB679153748C4B758FA2F /* SF-Compact-Display-Thin.otf in Resources */,
 				6FE140FCF1CB436E9A876AAB /* SF-Compact-Display-Ultralight.otf in Resources */,
+				AFC76D602CF8414CAA7D381E /* SFCompactDisplay-Black.otf in Resources */,
+				2C6AC851E1A946FC914EB044 /* SFCompactDisplay-Bold.otf in Resources */,
+				FC332566DD9048D291FC890F /* SFCompactDisplay-Heavy.otf in Resources */,
+				B10809A978C54A59BF7344F2 /* SFCompactDisplay-Light.otf in Resources */,
+				6A48322D965145A3A422EFCC /* SFCompactDisplay-Medium.otf in Resources */,
+				F767C28F4D5D48519FCB2E48 /* SFCompactDisplay-Regular.otf in Resources */,
+				F8CC643184B143EEAFD7A603 /* SFCompactDisplay-Semibold.otf in Resources */,
+				FD89B017A4E04E709C097FB8 /* SFCompactDisplay-Thin.otf in Resources */,
+				584C37D5A5EB40B58AC7037B /* SFCompactDisplay-Ultralight.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
