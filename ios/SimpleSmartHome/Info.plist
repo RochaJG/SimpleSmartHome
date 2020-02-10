@@ -55,17 +55,6 @@
 	<false/>
 	<key>UIAppFonts</key>
 	<array>
-		<string>sf-compact-display-medium.otf</string>
-		<string>sf-compact-display-thin.otf</string>
-		<string>SF-Compact-Display-Black.otf</string>
-		<string>SF-Compact-Display-Bold.otf</string>
-		<string>SF-Compact-Display-Heavy.otf</string>
-		<string>SF-Compact-Display-Light.otf</string>
-		<string>SF-Compact-Display-Medium.otf</string>
-		<string>SF-Compact-Display-Regular.otf</string>
-		<string>SF-Compact-Display-Semibold.otf</string>
-		<string>SF-Compact-Display-Thin.otf</string>
-		<string>SF-Compact-Display-Ultralight.otf</string>
 		<string>SFCompactDisplay-Black.otf</string>
 		<string>SFCompactDisplay-Bold.otf</string>
 		<string>SFCompactDisplay-Heavy.otf</string>
